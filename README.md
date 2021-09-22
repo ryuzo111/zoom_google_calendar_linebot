@@ -1,32 +1,26 @@
 # zoom_google_calendar_linebot
+
 個人作成のLinebotです。時間を入力すると、Zoom会議の予約とGoogleCalendarに予定追加を行います。
-ほけんとーく
-保険の悩み共有アプリ「ほけんとーく」です。
-保険に対する悩みを投稿することで、様々なユーザーからアドバイスをいただき解決のヒントとなるWEBアプリです。
-また、悩み投稿とコメントを共有することで、他のユーザーの悩み解決のヒントとなります。多くの人に見られたくない悩みは2人だけのチャット機能で相談することができます。
 
-このアプリを通して目指すものは、ユーザーが保険の悩みを共有して①解決のヒントや、②安心感、③考えるきっかけ　以上のようなものを得るためです。
-（直接保険営業マンとマッチングすることや、WEB上で保険の成立を目的とはしない）
-
-開発のきっかけ
+##開発のきっかけ
 発案者が保険会社で代理店営業を行なっていた際の経験をもとに、以下の理由でサービスの開発に至りました。
 ①保険に興味はあるけど、ほけんの窓口だと無理な保険を勧められそうで不安。
 ②保険加入者の多くは会社の利益を優先する営業マンより、利益を求めない知人に勧められることがきっかけ。
 ③営業マンではなく、一般の人が保険に対して意見交換する場がない。
 ④世に似たサービスがなかった。
 
-開発メンバー
-バックエンド3名　
-フロントエンド1名
+##使用技術/使用ツール
+PHP7,
+heroku,
+Linux,
+LINE Messaging API,
+ZoomAPI,
+Google CalendarAPI,
+Git,
+GitHub
 
-使用技術/使用ツール
-php7/Laravel5.5 HTML5/CSS/Bootstrap/javascript
-mysql
-git/GitHub/Linux
-slack/trello/調整くん/diagrams
 
-ER図
-<img src="https://github.com/ryuzo111/zoom_google_calendar_linebot/blob/master/IMG_6411.PNG" width="500px" height="500px">
+<img src="https://github.com/ryuzo111/zoom_google_calendar_linebot/blob/master/IMG_6411.PNG" width="500px" >
 
 
 URL
