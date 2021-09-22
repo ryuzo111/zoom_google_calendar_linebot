@@ -17,19 +17,19 @@ Git,</br>
 GitHub</br>
 
 ## 操作方法
-①文字を打つと入力してほしい文字の案内が出ます
+①文字を打つと入力してほしい文字の案内が出ます</br>
 <img src="https://github.com/ryuzo111/zoom_google_calendar_linebot/blob/master/IMG_6411.PNG" width="300px" >
 
-②「会議」と入力するとボタン付きのコメントを返します。
+②「会議」と入力するとボタン付きのコメントを返します。</br>
 <img src="https://github.com/ryuzo111/zoom_google_calendar_linebot/blob/master/IMG_6410.PNG" width="300px" >
 
-③コメントに記載のボタンを押すと、会議時間を選択できます。
+③コメントに記載のボタンを押すと、会議時間を選択できます。</br>
 <img src="https://github.com/ryuzo111/zoom_google_calendar_linebot/blob/master/IMG_6413.PNG" width="300px" >
 
-④会議時間設定時間の結果をコメントを返します。
+④会議時間設定時間の結果をコメントを返します。</br>
 <img src="https://github.com/ryuzo111/zoom_google_calendar_linebot/blob/master/IMG_6414.PNG" width="300px" >
 
-⑤グーグルカレンダーにも会議時間が追加されています。
+⑤グーグルカレンダーにも会議時間が追加されています。</br>
 <img src="https://github.com/ryuzo111/zoom_google_calendar_linebot/blob/master/IMG_6415.PNG" width="300px" >
 
 ## URL
