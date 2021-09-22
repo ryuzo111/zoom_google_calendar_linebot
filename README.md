@@ -26,7 +26,8 @@ git/GitHub/Linux
 slack/trello/調整くん/diagrams
 
 ER図
-![ER図](https://github.com/ryuzo111/zoom_google_calendar_linebot/blob/master/IMG_6411.PNG)
+<img src="https://github.com/ryuzo111/zoom_google_calendar_linebot/blob/master/IMG_6411.PNG" width="500px" height="500px">
+
 
 URL
 ほけんとーく
