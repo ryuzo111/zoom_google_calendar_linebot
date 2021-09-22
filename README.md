@@ -26,7 +26,7 @@ git/GitHub/Linux
 slack/trello/調整くん/diagrams
 
 ER図
-![ER図](https://github.com/ryuzo111/matching_insurance/blob/master/IMG_6411.PNG)
+![ER図](https://github.com/ryuzo111/zoom_google_calendar_linebot/blob/master/IMG_6411.PNG)
 
 URL
 ほけんとーく
