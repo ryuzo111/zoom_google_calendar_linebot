@@ -38,7 +38,7 @@ https://lin.ee/S5ZMCsG
 
 ・使用動画
 https://youtu.be/k69wai50TZM <br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/k69wai50TZM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![](https://img.youtube.com/vi/k69wai50TZM/0.jpg)](https://www.youtube.com/watch?v=k69wai50TZM)
 
 ## ポイント
 ・ワンクリックでZOOM会議とGoogleCalendarに追加できる設計。</br>
