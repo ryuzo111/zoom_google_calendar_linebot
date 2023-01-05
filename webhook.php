@@ -17,15 +17,10 @@
  */
 
 require_once('./LINEBotTiny.php');
-require_once __DIR__ . '/vendor/autoload.php';
-
-<<<<<<< HEAD
-$channelAccessToken = '/UTV8SXGohA1/hcm4aVtvy9NZnTDhlXmJlPWZmZumDk1cmfb7ZdRViABc9Gg4FJSCDd5HtgyWy11XZrzMWuWLn6UzRiaVR9q/DHCD2hzL4AeFhSqSjKdjsgb3p796e7jUporksmv98PZamht+46wrwdB04t89/1O/w1cDnyilFU=';
-$channelSecret = '26652f6a60c066305f3e73eb004c5484';
-=======
+require_once __DIR__ . endor/autoload.php
 $channelAccessToken = '';
 $channelSecret = '';
->>>>>>> ff32001 (Initial Commit)
+
 
 $aimJsonPath = __DIR__ . '/versatile-lotus-308104-f424b674cce1.json';
 
@@ -185,11 +180,7 @@ foreach ($client->parseEvents() as $event) {
                 case 'location':
                     $lat = $message['latitude'];
                     $lon = $message['longitude'];
-<<<<<<< HEAD
-                    // $url = 'http://webservice.recruit.co.jp/hotpepper/gourmet/v1/?key=be9fee35e709e71a&lat=34.67&lng=135.52&range=5&order=4&format=json';
-=======
 >>>>>>> ff32001 (Initial Commit)
-
                     $url = 'http://webservice.recruit.co.jp/hotpepper/gourmet/v1/?key=be9fee35e709e71a&lat=' . $lat . '&lng=' . $lon . '&range=5&order=3&format=json';
                     $ch = curl_init();
                     curl_setopt($ch, CURLOPT_URL, $url);
